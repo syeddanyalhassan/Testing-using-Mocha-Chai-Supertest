@@ -1,3 +1,7 @@
+#Original repository: https://github.com/lewisPrescott707/tau-api-testing/issues
+
+I would like to thanks Lewis Prescott for this amazing repository.
+
 # Testing using mocha chai and supertest
 
 1. First download the whole setup
