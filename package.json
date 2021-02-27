@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "syeddanyalhassan",
-=======
-  "name": "danyal",
->>>>>>> 8fcaaaafed9f853ceb98836b5130e436bd26a617
+  "name": "tau-api-testing",
   "version": "1.0.0",
   "description": "API testing with supertest & nock",
   "main": "index.js",
@@ -12,24 +8,18 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": " "
+    "url": "git+https://github.com/lewisPrescott707/tau-api-testing.git"
   },
-  "author": "syed danyal hassan",
-=======
-    "url": ""
-  },
-  "author": "Syed Dayal Hassan",
->>>>>>> 8fcaaaafed9f853ceb98836b5130e436bd26a617
-  "license": "",
+  "author": "lewis prescott",
+  "license": "MIT",
   "bugs": {
-    
+    "url": "https://github.com/lewisPrescott707/tau-api-testing/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/lewisPrescott707/tau-api-testing#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "express": "^4.17.1",
-    "mocha": "^7.2.0",
+    "mocha": "^7.1.1",
     "nock": "^12.0.3",
     "supertest": "^4.0.2"
   },
