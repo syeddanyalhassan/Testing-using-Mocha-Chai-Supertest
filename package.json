@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "syeddanyalhassan",
+=======
+  "name": "danyal",
+>>>>>>> 8fcaaaafed9f853ceb98836b5130e436bd26a617
   "version": "1.0.0",
   "description": "API testing with supertest & nock",
   "main": "index.js",
@@ -8,9 +12,15 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": " "
   },
   "author": "syed danyal hassan",
+=======
+    "url": ""
+  },
+  "author": "Syed Dayal Hassan",
+>>>>>>> 8fcaaaafed9f853ceb98836b5130e436bd26a617
   "license": "",
   "bugs": {
     
